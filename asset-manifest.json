@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/xirobot-pcd-cutter/static/css/main.7a3220ff.css",
+    "main.css": "/xirobot-pcd-cutter/static/css/main.fe9bb8fa.css",
     "main.js": "/xirobot-pcd-cutter/static/js/main.83c35899.js",
     "static/js/453.927c478e.chunk.js": "/xirobot-pcd-cutter/static/js/453.927c478e.chunk.js",
     "index.html": "/xirobot-pcd-cutter/index.html",
-    "main.7a3220ff.css.map": "/xirobot-pcd-cutter/static/css/main.7a3220ff.css.map",
+    "main.fe9bb8fa.css.map": "/xirobot-pcd-cutter/static/css/main.fe9bb8fa.css.map",
     "main.83c35899.js.map": "/xirobot-pcd-cutter/static/js/main.83c35899.js.map",
     "453.927c478e.chunk.js.map": "/xirobot-pcd-cutter/static/js/453.927c478e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7a3220ff.css",
+    "static/css/main.fe9bb8fa.css",
     "static/js/main.83c35899.js"
   ]
 }
