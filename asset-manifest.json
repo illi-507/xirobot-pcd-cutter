@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/xirobot-pcd-cutter/static/css/main.fe9bb8fa.css",
-    "main.js": "/xirobot-pcd-cutter/static/js/main.83c35899.js",
-    "static/js/453.927c478e.chunk.js": "/xirobot-pcd-cutter/static/js/453.927c478e.chunk.js",
-    "index.html": "/xirobot-pcd-cutter/index.html",
-    "main.fe9bb8fa.css.map": "/xirobot-pcd-cutter/static/css/main.fe9bb8fa.css.map",
-    "main.83c35899.js.map": "/xirobot-pcd-cutter/static/js/main.83c35899.js.map",
-    "453.927c478e.chunk.js.map": "/xirobot-pcd-cutter/static/js/453.927c478e.chunk.js.map"
+    "main.css": "./static/css/main.39bf905c.css",
+    "main.js": "./static/js/main.ff84eca6.js",
+    "static/js/453.927c478e.chunk.js": "./static/js/453.927c478e.chunk.js",
+    "index.html": "./index.html",
+    "main.39bf905c.css.map": "./static/css/main.39bf905c.css.map",
+    "main.ff84eca6.js.map": "./static/js/main.ff84eca6.js.map",
+    "453.927c478e.chunk.js.map": "./static/js/453.927c478e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fe9bb8fa.css",
-    "static/js/main.83c35899.js"
+    "static/css/main.39bf905c.css",
+    "static/js/main.ff84eca6.js"
   ]
 }
